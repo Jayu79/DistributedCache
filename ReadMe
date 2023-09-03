@@ -1,0 +1,6 @@
+Designed a codebase for the engineering problem of Distributed cache, which works in highly concurrent environments.
+Implemented the logic of consistent hashing to put the key on the specific server.
+Implemented StripedExecutorService for concurrent task scheduling and efficient thread management in the application
+Implemented the factory design pattern for implementing different write strategies and evict strategies.
+Written code for write back and write through for different write strategies and LRU and LFU for different eviction strategies
+Implemented the Adapter Design pattern to make sure the changes in the code are minimal while switching from one database to another.
